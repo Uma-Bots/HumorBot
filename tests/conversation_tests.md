@@ -21,7 +21,7 @@
 * mood_unhappy: não é bom
   - utter_cheer_up
   - utter_did_that_help
-* afirma: sim
+* afirmar: sim
   - utter_happy
 
 ## caminho triste 2
